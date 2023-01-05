@@ -4,7 +4,6 @@ const { splitter } = require("./utils");
 const data = require("./generate")();
 
 const markupArray = [
-  data.header,
   data.intro,
   splitter.br.nl(2),
   data.stack,

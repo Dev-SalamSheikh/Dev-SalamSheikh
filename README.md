@@ -1,4 +1,3 @@
-![MasterHead](/assets/js.gif)
 <div>
   <a href="#">
     <img width="100%" src="/assets/header-banner.svg"/>

@@ -1,1 +1,0 @@
-![MasterHead]({ASSETS}/js.gif)
