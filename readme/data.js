@@ -1,6 +1,4 @@
 module.exports = {
-  header: {},
-
   intro: {
     mail: "dev.salamsheikh@gmail.com",
     website: "https://salamsheikh.me",
