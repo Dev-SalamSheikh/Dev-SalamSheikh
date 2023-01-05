@@ -1,4 +1,4 @@
-## Connect with me:
+## Social Media's:
 
 <p>
 <a href="https://twitter.com/ambivert_person" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambivert_person" height="40" width="50" /></a>
