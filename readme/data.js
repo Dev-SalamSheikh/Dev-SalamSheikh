@@ -12,9 +12,9 @@ module.exports = {
     streakStats:
       "https://github-readme-streak-stats.herokuapp.com?user=Dev-SalamSheikh&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22",
     overviewStats:
-      "https://github.com/Dev-SalamSheikh/Git-Stats/raw/master/generated_images/overviewDarkMode.svg",
+      "https://github.com/Dev-SalamSheikh/Git-Stats/raw/actions_branch/generated_images/overviewDarkMode.svg",
     languageStats:
-      "https://github.com/Dev-SalamSheikh/Git-Stats/raw/master/generated_images/languagesDarkMode.svg",
+      "https://github.com/Dev-SalamSheikh/Git-Stats/raw/actions_branch/generated_images/languagesDarkMode.svg",
   },
 
   projects: require("./partials/projects"),

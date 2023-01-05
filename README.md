@@ -122,13 +122,13 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github.com/Dev-SalamSheikh/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" />
+    <img align="center" src="https://github.com/Dev-SalamSheikh/Git-Stats/raw/actions_branch/generated_images/overviewDarkMode.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github.com/Dev-SalamSheikh/Git-Stats/raw/master/generated_images/languagesDarkMode.svg" />
+    <img align="center" src="https://github.com/Dev-SalamSheikh/Git-Stats/raw/actions_branch/generated_images/languagesDarkMode.svg" />
   </a>
 </p>
 
