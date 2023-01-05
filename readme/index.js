@@ -1,9 +1,11 @@
-console.clear()
-const { writeFileSync } = require('fs')
-const { splitter } = require('./utils')
-const data = require('./generate')()
+console.clear();
+const { writeFileSync } = require("fs");
+const { splitter } = require("./utils");
+const data = require("./generate")();
 
 const markupArray = [
+  data.header,
+  splitter.br.nl(2),
   data.intro,
   splitter.br.nl(2),
   data.stack,
@@ -15,6 +17,6 @@ const markupArray = [
   data.metrics,
   splitter.h1.br.nl(2),
   data.footer,
-]
+];
 
-writeFileSync('README.md', markupArray.join(''))
+writeFileSync("README.md", markupArray.join(""));
