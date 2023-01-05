@@ -1,3 +1,4 @@
+![MasterHead](/assets/js.gif)
 <div>
   <a href="#">
     <img width="100%" src="/assets/header-banner.svg"/>
@@ -12,7 +13,7 @@
 
 ## Stack:
 
-<img src={ASSETS/js.gif} />
+<img src="/assets/js.gif" />
 
 <p align="left">
 <a href="#" target="_blank" rel="noreferrer">
@@ -163,6 +164,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dev-SalamSheikh&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
   </a>
 </p>
+
+
 
 #
 
