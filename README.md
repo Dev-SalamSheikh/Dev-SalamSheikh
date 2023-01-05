@@ -1,4 +1,4 @@
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+![MasterHead](/assets/js.gif)
 <div>
   <a href="#">
     <img width="100%" src="/assets/header-banner.svg"/>
