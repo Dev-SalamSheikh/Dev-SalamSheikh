@@ -13,7 +13,6 @@ const stack = [
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg",
 
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg",
-  "https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg",
 
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg",
