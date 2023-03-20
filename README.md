@@ -5,7 +5,7 @@
 </div>
 
 - 📧 Mail: **dev.salamsheikh@gmail.com**
-- 🌐 Website: **https://salamsheikh.me**
+- 🌐 Website: **https://salamsheikh.com**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
 <br/>
