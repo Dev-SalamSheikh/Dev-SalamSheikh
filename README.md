@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 📧 Mail: **dev.salamsheikh@gmail.com**
+- 📧 Mail: **contact@salamsheikh.com**
 - 🌐 Website: **https://salamsheikh.com**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
